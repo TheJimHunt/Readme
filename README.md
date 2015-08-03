@@ -1,1 +1,1 @@
-"A completely different README trying the add/commit approach" 
+"A completely different README trying just the commit approach" 
